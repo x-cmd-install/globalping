@@ -5,13 +5,13 @@ about:
   head: e1c9766
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T06:12:51Z
+  collectedAt: 2026-09-07T18:17:11Z
 timeline:
   created: 2022-02-19
   lastCommit: 2026-09-04
   lastRelease: 
 popularity:
-  star: 597
+  star: 598
   watcher: 7
   fork: 58
   release: 0
@@ -83,7 +83,7 @@ total:
   commit: 982
 ---
 path: /home/runner/.x-repo/github.com/jsdelivr/globalping
-collectedAt: 2026-09-07T06:12:52Z
+collectedAt: 2026-09-07T18:17:13Z
 loc:
   TypeScript:
     code: 26288
@@ -149,7 +149,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:12:53+00:00
+  collectedAt: 2026-09-07T18:17:14+00:00
   platform:
     darwin/arm64:
       name:  null

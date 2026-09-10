@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:26:02Z
+  collectedAt: 2026-09-10T20:19:31Z
 timeline:
   created: 2022-02-19
   lastCommit: 2026-09-09
@@ -20,7 +20,7 @@ popularity:
   fork: 58
   release: 0
   contributor: 16
-  pullRequest: 505
+  pullRequest: 508
   issue: 390
 language:
   TypeScript: 985632
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 11
-    openPR: 2
+    openPR: 5
     closedIssue: 2
     openIssue: 4
     commit: 17
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-12
     release: 0
     mergedPR: 29
-    openPR: 2
+    openPR: 5
     closedIssue: 6
     openIssue: 8
     commit: 41
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-12
     release: 0
     mergedPR: 38
-    openPR: 2
+    openPR: 5
     closedIssue: 9
     openIssue: 8
     commit: 59
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-14
     release: 0
     mergedPR: 66
-    openPR: 2
+    openPR: 5
     closedIssue: 14
     openIssue: 11
     commit: 101
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-15
     release: 0
     mergedPR: 122
-    openPR: 2
+    openPR: 5
     closedIssue: 38
     openIssue: 16
     commit: 179
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-20
     release: 0
     mergedPR: 225
-    openPR: 2
+    openPR: 5
     closedIssue: 96
     openIssue: 25
     commit: 339
 total:
   release: 0
   mergedPR: 479
-  openPR: 2
+  openPR: 5
   closedIssue: 349
   openIssue: 41
   commit: 986
 ---
 path: /home/runner/.x-repo/github.com/jsdelivr/globalping
-collectedAt: 2026-09-10T06:26:04Z
+collectedAt: 2026-09-10T20:19:33Z
 loc:
   TypeScript:
     code: 26340

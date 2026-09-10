@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:19:31Z
+  collectedAt: 2026-09-10T23:23:21Z
 timeline:
   created: 2022-02-19
   lastCommit: 2026-09-09
@@ -87,7 +87,7 @@ total:
   commit: 986
 ---
 path: /home/runner/.x-repo/github.com/jsdelivr/globalping
-collectedAt: 2026-09-10T20:19:33Z
+collectedAt: 2026-09-10T23:23:22Z
 loc:
   TypeScript:
     code: 26340

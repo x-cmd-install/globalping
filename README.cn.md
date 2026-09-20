@@ -4,7 +4,7 @@
 
 A global network of probes to run network tests like ping, traceroute and DNS resolve
 
-![globalping](https://repo.x-cmd.io/globalping.svg?lang=zh)
+[![x-cmd/install — globalping Code Quality Monitoring Repo Card](https://repo.x-cmd.io/globalping.svg?lang=zh)](https://x-cmd.com/install/globalping)
 
 ## 安装
 
@@ -32,7 +32,7 @@ x install globalping
 
 ## 流行度
 
-- **Star**: 602 · **Fork**: 58 · **开放 issue**: 391 · **贡献者**: 16
+- **Star**: 603 · **Fork**: 58 · **开放 issue**: 391 · **贡献者**: 16
 
 ## 累计统计
 
@@ -42,12 +42,12 @@ x install globalping
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 15 | 1 | 3 | 2 | 21 |
-| last60d | 2026-07-20 | 0 | 30 | 2 | 5 | 8 | 39 |
-| 90d | 2026-06-20 | 0 | 40 | 2 | 10 | 8 | 52 |
-| last180d | 2026-03-22 | 0 | 71 | 2 | 14 | 10 | 104 |
-| 360d | 2025-09-23 | 0 | 123 | 2 | 36 | 16 | 179 |
-| last720d | 2024-09-28 | 0 | 229 | 2 | 95 | 24 | 342 |
+| 30d | 2026-08-21 | 0 | 15 | 1 | 3 | 2 | 19 |
+| last60d | 2026-07-22 | 0 | 29 | 2 | 4 | 6 | 32 |
+| 90d | 2026-06-22 | 0 | 40 | 2 | 10 | 8 | 51 |
+| last180d | 2026-03-24 | 0 | 70 | 2 | 14 | 10 | 101 |
+| 360d | 2025-09-25 | 0 | 121 | 2 | 35 | 16 | 173 |
+| last720d | 2024-09-30 | 0 | 229 | 2 | 95 | 24 | 342 |
 
 ## 改进这些数据
 
@@ -58,4 +58,4 @@ globalping 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:35:30Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:31:23Z._

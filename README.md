@@ -4,7 +4,7 @@
 
 A global network of probes to run network tests like ping, traceroute and DNS resolve
 
-[![x-cmd/install — globalping Code Quality Monitoring Repo Card](https://repo.x-cmd.io/globalping.svg)](https://x-cmd.com/install/globalping)
+[![x-cmd/install — globalping Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/globalping.svg)](https://x-cmd.com/install/globalping)
 
 ## Install
 
@@ -36,18 +36,18 @@ Total: **51,074** lines of code across **289** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 485 · **Open PRs**: 3 · **Closed issues**: 350 · **Open issues**: 41 · **Commits**: 992
+- **Releases**: 0 · **Merged PRs**: 486 · **Open PRs**: 2 · **Closed issues**: 350 · **Open issues**: 41 · **Commits**: 993
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 15 | 2 | 3 | 2 | 19 |
-| last60d | 2026-07-24 | 0 | 26 | 3 | 4 | 6 | 32 |
-| 90d | 2026-06-24 | 0 | 40 | 3 | 9 | 8 | 51 |
-| last180d | 2026-03-26 | 0 | 69 | 3 | 14 | 10 | 101 |
-| 360d | 2025-09-27 | 0 | 120 | 3 | 35 | 16 | 173 |
-| last720d | 2024-10-02 | 0 | 229 | 3 | 95 | 24 | 340 |
+| 30d | 2026-08-24 | 0 | 16 | 1 | 3 | 2 | 20 |
+| last60d | 2026-07-25 | 0 | 27 | 2 | 4 | 6 | 33 |
+| 90d | 2026-06-25 | 0 | 41 | 2 | 9 | 8 | 52 |
+| last180d | 2026-03-27 | 0 | 70 | 2 | 14 | 10 | 102 |
+| 360d | 2025-09-28 | 0 | 121 | 2 | 35 | 16 | 174 |
+| last720d | 2024-10-03 | 0 | 230 | 2 | 95 | 24 | 339 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:41:53Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:54:21Z._

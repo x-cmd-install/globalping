@@ -36,18 +36,18 @@ Total: **51,074** lines of code across **289** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 486 · **Open PRs**: 4 · **Closed issues**: 350 · **Open issues**: 41 · **Commits**: 993
+- **Releases**: 0 · **Merged PRs**: 487 · **Open PRs**: 4 · **Closed issues**: 350 · **Open issues**: 41 · **Commits**: 994
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 16 | 3 | 3 | 2 | 20 |
-| last60d | 2026-07-26 | 0 | 27 | 4 | 4 | 6 | 33 |
-| 90d | 2026-06-26 | 0 | 41 | 4 | 9 | 8 | 52 |
-| last180d | 2026-03-28 | 0 | 70 | 4 | 14 | 10 | 102 |
-| 360d | 2025-09-29 | 0 | 121 | 4 | 35 | 16 | 174 |
-| last720d | 2024-10-04 | 0 | 230 | 4 | 95 | 24 | 339 |
+| 30d | 2026-08-26 | 0 | 17 | 3 | 2 | 2 | 21 |
+| last60d | 2026-07-27 | 0 | 27 | 4 | 4 | 6 | 34 |
+| 90d | 2026-06-27 | 0 | 42 | 4 | 9 | 8 | 53 |
+| last180d | 2026-03-29 | 0 | 70 | 4 | 14 | 10 | 103 |
+| 360d | 2025-09-30 | 0 | 121 | 4 | 35 | 16 | 175 |
+| last720d | 2024-10-05 | 0 | 231 | 4 | 95 | 24 | 339 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:06:51Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:13:13Z._

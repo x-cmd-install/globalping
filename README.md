@@ -32,7 +32,7 @@ Total: **51,069** lines of code across **289** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 610 · **Forks**: 58 · **Open issues**: 391 · **Contributors**: 16
+- **Stars**: 612 · **Forks**: 58 · **Open issues**: 391 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -42,12 +42,12 @@ Total: **51,069** lines of code across **289** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 15 | 2 | 2 | 1 | 15 |
-| last60d | 2026-08-01 | 0 | 25 | 3 | 4 | 4 | 29 |
-| 90d | 2026-07-02 | 0 | 43 | 3 | 10 | 7 | 53 |
-| last180d | 2026-04-03 | 0 | 67 | 3 | 14 | 8 | 97 |
-| 360d | 2025-10-05 | 0 | 118 | 3 | 33 | 15 | 163 |
-| last720d | 2024-10-10 | 0 | 230 | 3 | 94 | 23 | 336 |
+| 30d | 2026-09-01 | 0 | 15 | 2 | 2 | 1 | 15 |
+| last60d | 2026-08-02 | 0 | 25 | 3 | 4 | 4 | 29 |
+| 90d | 2026-07-03 | 0 | 42 | 3 | 10 | 7 | 53 |
+| last180d | 2026-04-04 | 0 | 67 | 3 | 14 | 8 | 97 |
+| 360d | 2025-10-06 | 0 | 117 | 3 | 33 | 15 | 163 |
+| last720d | 2024-10-11 | 0 | 229 | 3 | 92 | 23 | 336 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:56:43Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:16:49Z._

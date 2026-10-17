@@ -14,11 +14,11 @@ x install globalping
 
 ## Code insight
 
-Total: **52,136** lines of code across **297** files in the top 5 languages.
+Total: **52,155** lines of code across **297** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 27,519 | 236 | 5,233 | 240 |
+| TypeScript | 27,538 | 236 | 5,237 | 240 |
 | Json | 19,339 | 0 | 0 | 14 |
 | Yaml | 2,925 | 3 | 28 | 10 |
 | JavaScript | 1,713 | 33 | 184 | 28 |
@@ -32,22 +32,22 @@ Total: **52,136** lines of code across **297** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 616 · **Forks**: 58 · **Open issues**: 393 · **Contributors**: 16
+- **Stars**: 617 · **Forks**: 58 · **Open issues**: 394 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 490 · **Open PRs**: 2 · **Closed issues**: 351 · **Open issues**: 42 · **Commits**: 997
+- **Releases**: 0 · **Merged PRs**: 491 · **Open PRs**: 2 · **Closed issues**: 351 · **Open issues**: 43 · **Commits**: 998
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 5 | 1 | 0 | 2 | 5 |
-| last60d | 2026-08-17 | 0 | 21 | 2 | 4 | 4 | 26 |
-| 90d | 2026-07-18 | 0 | 35 | 2 | 6 | 9 | 44 |
-| last180d | 2026-04-19 | 0 | 61 | 2 | 14 | 10 | 91 |
-| 360d | 2025-10-21 | 0 | 116 | 2 | 31 | 16 | 163 |
-| last720d | 2024-10-26 | 0 | 225 | 2 | 91 | 25 | 322 |
+| 30d | 2026-09-17 | 0 | 5 | 1 | 0 | 3 | 6 |
+| last60d | 2026-08-18 | 0 | 20 | 2 | 3 | 5 | 27 |
+| 90d | 2026-07-19 | 0 | 36 | 2 | 6 | 10 | 45 |
+| last180d | 2026-04-20 | 0 | 62 | 2 | 14 | 11 | 92 |
+| 360d | 2025-10-22 | 0 | 117 | 2 | 30 | 17 | 164 |
+| last720d | 2024-10-27 | 0 | 226 | 2 | 90 | 26 | 323 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:55:19Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:32:31Z._

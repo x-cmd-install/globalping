@@ -32,22 +32,22 @@ Total: **53,896** lines of code across **312** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 623 · **Forks**: 58 · **Open issues**: 394 · **Contributors**: 16
+- **Stars**: 623 · **Forks**: 58 · **Open issues**: 395 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 497 · **Open PRs**: 1 · **Closed issues**: 351 · **Open issues**: 43 · **Commits**: 1004
+- **Releases**: 0 · **Merged PRs**: 497 · **Open PRs**: 1 · **Closed issues**: 351 · **Open issues**: 44 · **Commits**: 1004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 6 | 1 | 0 | 3 | 7 |
-| last60d | 2026-09-04 | 0 | 21 | 1 | 2 | 4 | 22 |
-| 90d | 2026-08-05 | 0 | 31 | 1 | 4 | 7 | 35 |
-| last180d | 2026-05-07 | 0 | 62 | 1 | 14 | 11 | 85 |
-| 360d | 2025-11-08 | 0 | 116 | 1 | 30 | 16 | 159 |
-| last720d | 2024-11-13 | 0 | 227 | 1 | 90 | 26 | 324 |
+| 30d | 2026-10-05 | 0 | 6 | 1 | 0 | 4 | 7 |
+| last60d | 2026-09-05 | 0 | 21 | 1 | 1 | 5 | 22 |
+| 90d | 2026-08-06 | 0 | 31 | 1 | 4 | 7 | 35 |
+| last180d | 2026-05-08 | 0 | 62 | 1 | 13 | 12 | 85 |
+| 360d | 2025-11-09 | 0 | 116 | 1 | 30 | 17 | 159 |
+| last720d | 2024-11-14 | 0 | 227 | 1 | 90 | 27 | 324 |
 
 ## Distribution status
 
@@ -62,4 +62,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:31:17Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:53:15Z._

@@ -42,12 +42,12 @@ Total: **53,896** lines of code across **312** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 7 | 1 | 0 | 4 | 8 |
-| last60d | 2026-09-08 | 0 | 21 | 1 | 0 | 5 | 23 |
-| 90d | 2026-08-09 | 0 | 31 | 1 | 4 | 7 | 36 |
-| last180d | 2026-05-11 | 0 | 62 | 1 | 13 | 12 | 86 |
-| 360d | 2025-11-12 | 0 | 116 | 1 | 30 | 17 | 160 |
-| last720d | 2024-11-17 | 0 | 227 | 1 | 90 | 27 | 324 |
+| 30d | 2026-10-09 | 0 | 7 | 1 | 0 | 4 | 8 |
+| last60d | 2026-09-09 | 0 | 17 | 1 | 0 | 5 | 15 |
+| 90d | 2026-08-10 | 0 | 30 | 1 | 4 | 7 | 36 |
+| last180d | 2026-05-12 | 0 | 62 | 1 | 13 | 12 | 83 |
+| 360d | 2025-11-13 | 0 | 116 | 1 | 30 | 17 | 158 |
+| last720d | 2024-11-18 | 0 | 227 | 1 | 89 | 27 | 324 |
 
 ## Distribution status
 
@@ -62,4 +62,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:23:46Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:25:55Z._

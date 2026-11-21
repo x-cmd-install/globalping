@@ -4,7 +4,7 @@
   visiblename: globalping-bin
   version: 1.6.1
   origversion: 1.6.1-1
-  status: newest
+  status: outdated
   summary: Better understand your network routing, fix anycast issues, monitor your CDN and DNS performance, do uptime monitoring and build your own network tools for personal or public use.
   maintainers:
     - osbeck@aur
@@ -15,13 +15,13 @@
   visiblename: Globalping CLI
   version: 1.6.1
   origversion: null
-  status: newest
+  status: outdated
   summary: A global network of probes to run network tests like ping, traceroute and DNS resolve.
 - repo: scoop
   subrepo: main
   binname: globalping
   visiblename: globalping
-  version: 1.6.1
+  version: 1.7.0
   origversion: null
   status: newest
   licenses:

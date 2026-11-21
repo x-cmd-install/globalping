@@ -14,12 +14,12 @@ x install globalping
 
 ## Code insight
 
-Total: **54,104** lines of code across **312** files in the top 5 languages.
+Total: **53,625** lines of code across **312** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 29,378 | 253 | 5,651 | 254 |
-| Json | 19,336 | 0 | 0 | 14 |
+| TypeScript | 29,411 | 253 | 5,652 | 254 |
+| Json | 18,827 | 0 | 0 | 14 |
 | Yaml | 2,968 | 3 | 28 | 10 |
 | JavaScript | 1,750 | 33 | 189 | 29 |
 | Bitbake | 353 | 8,218 | 837 | 5 |
@@ -32,26 +32,26 @@ Total: **54,104** lines of code across **312** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 629 · **Forks**: 60 · **Open issues**: 398 · **Contributors**: 16
+- **Stars**: 630 · **Forks**: 60 · **Open issues**: 398 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 504 · **Open PRs**: 1 · **Closed issues**: 354 · **Open issues**: 44 · **Commits**: 1011
+- **Releases**: 0 · **Merged PRs**: 506 · **Open PRs**: 0 · **Closed issues**: 354 · **Open issues**: 44 · **Commits**: 1013
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 10 | 1 | 3 | 1 | 12 |
-| last60d | 2026-09-21 | 0 | 16 | 1 | 3 | 4 | 18 |
-| 90d | 2026-08-22 | 0 | 33 | 1 | 6 | 6 | 40 |
-| last180d | 2026-05-24 | 0 | 67 | 1 | 14 | 12 | 88 |
-| 360d | 2025-11-25 | 0 | 119 | 1 | 33 | 16 | 164 |
-| last720d | 2024-11-30 | 0 | 228 | 1 | 86 | 27 | 325 |
+| 30d | 2026-10-22 | 0 | 12 | 0 | 3 | 1 | 14 |
+| last60d | 2026-09-22 | 0 | 18 | 0 | 3 | 4 | 20 |
+| 90d | 2026-08-23 | 0 | 35 | 0 | 6 | 6 | 42 |
+| last180d | 2026-05-25 | 0 | 69 | 0 | 14 | 12 | 90 |
+| 360d | 2025-11-26 | 0 | 121 | 0 | 33 | 16 | 166 |
+| last720d | 2024-12-01 | 0 | 230 | 0 | 86 | 27 | 327 |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/globalping). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/globalping). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:51:37Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:47:31Z._

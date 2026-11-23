@@ -13,9 +13,9 @@
 - repo: chocolatey
   binname: globalping
   visiblename: Globalping CLI
-  version: 1.6.1
+  version: 1.7.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A global network of probes to run network tests like ping, traceroute and DNS resolve.
 - repo: scoop
   subrepo: main

@@ -14,11 +14,11 @@ x install globalping
 
 ## Code insight
 
-Total: **53,625** lines of code across **312** files in the top 5 languages.
+Total: **53,663** lines of code across **312** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 29,411 | 253 | 5,652 | 254 |
+| TypeScript | 29,449 | 254 | 5,662 | 254 |
 | Json | 18,827 | 0 | 0 | 14 |
 | Yaml | 2,968 | 3 | 28 | 10 |
 | JavaScript | 1,750 | 33 | 189 | 29 |
@@ -36,18 +36,18 @@ Total: **53,625** lines of code across **312** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 506 · **Open PRs**: 0 · **Closed issues**: 354 · **Open issues**: 45 · **Commits**: 1013
+- **Releases**: 0 · **Merged PRs**: 508 · **Open PRs**: 1 · **Closed issues**: 354 · **Open issues**: 45 · **Commits**: 1015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 11 | 0 | 3 | 2 | 12 |
-| last60d | 2026-09-26 | 0 | 15 | 0 | 3 | 5 | 17 |
-| 90d | 2026-08-27 | 0 | 35 | 0 | 5 | 6 | 40 |
-| last180d | 2026-05-29 | 0 | 69 | 0 | 14 | 12 | 90 |
-| 360d | 2025-11-30 | 0 | 121 | 0 | 31 | 17 | 166 |
-| last720d | 2024-12-05 | 0 | 229 | 0 | 86 | 28 | 325 |
+| 30d | 2026-10-27 | 0 | 13 | 1 | 3 | 2 | 14 |
+| last60d | 2026-09-27 | 0 | 17 | 1 | 3 | 5 | 19 |
+| 90d | 2026-08-28 | 0 | 37 | 1 | 5 | 6 | 42 |
+| last180d | 2026-05-30 | 0 | 71 | 1 | 14 | 12 | 92 |
+| 360d | 2025-12-01 | 0 | 123 | 1 | 30 | 17 | 168 |
+| last720d | 2024-12-06 | 0 | 231 | 1 | 86 | 28 | 327 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for globalping lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:58:20Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:45:13Z._
